@@ -2,19 +2,20 @@
 
 ### ✨ <strong>프로젝트에 사용한 스택</strong> ✨
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-자바스크립트로 만든 그림판입니다.
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
 ### 📍 Draw on Canvas Board 소개
 
 > Draw on Canvas Board는 HTML5에서 제공하는 canvas기능을 통해 만든 그림판입니다.
 >
-> <strong>[Demo 👀](https://talentforest.github.io/canvas-board/)</strong>
+> ### <strong>[Demo 👀](https://talentforest.github.io/canvas-board/)</strong>
 
 <br/>
-
-<br/>
+<img width="60%" alt="스크린샷 2022-11-04 오후 5 00 43" src="https://user-images.githubusercontent.com/91457443/199922527-0b921d33-d32c-4b26-a55f-bb0c3f09ea9a.png">
 
 ### 📍 기능 소개
 
